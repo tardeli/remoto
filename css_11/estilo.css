@@ -1,0 +1,43 @@
+body{
+	padding:0px;
+	margin:0px;	  
+	background-color: #e8e6e6 
+}
+
+h1{
+  font-family:Helvetica, Geneva, Arial,
+			  SunSans-Regular, sans-serif;
+
+	}
+h3{
+	font-family:Helvetica, Geneva, Arial,
+			  SunSans-Regular, sans-serif;
+	color: red;
+	font-size:18px;
+	font-weight:900;
+}
+	
+table.darkTable {
+  font-family: "Arial Black", Gadget, sans-serif;
+  border: 0px solid #000000;
+  background-color: #000000;
+  text-align: left;
+}
+table.darkTable td, table.darkTable th {
+  border: 1px solid #4A4A4A;
+  padding: 3px 2px;
+}
+table.darkTable tbody td {
+  font-size: 13px;
+  color: #E6E6E6;
+}
+table.darkTable tr:nth-child(even) {
+  background: #C2C2C2;
+}
+table.darkTable tfoot td {
+  font-size: 12px;
+}
+
+p.tarefa11{
+	text-align:justify;	
+}
